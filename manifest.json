@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-camera",
-	"name": "Camera",
+	"id": "obsidian-recorder",
+	"name": "Recorder",
 	"version": "1.8.0",
 	"minAppVersion": "0.14.6",
-	"description": "Camera plugin for Obsidian",
-	"author": "Aldrin Jenson",
-	"authorUrl": "https://aldrinjenson.github.io/",
+	"description": "Recorder plugin for Obsidian",
+	"author": "ViraProject",
+	"authorUrl": "https://github.com/Vira-Project",
 	"isDesktopOnly": false
 }
